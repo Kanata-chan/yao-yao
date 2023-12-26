@@ -11,7 +11,7 @@
 <a href="#"><img title="Yao Yao" src="https://img.shields.io/badge/Yao-Yao-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Kanata-chan/yao-yao"><img title="Author" src="https://img.shields.io/badge/findme-19-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Kanata-chan/yao-yao"><img title="Author" src="https://img.shields.io/badge/Kanata-chan-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 
@@ -70,7 +70,7 @@ node . --server
 1. Type mentioned below given commands one by one in Termux.
 ```sh
 $ pkg upgrade && pkg update && pkg install git nodejs ffmpeg imagemagick nano bash mc -y
-$ git clone https://github.com/findme-19/milkita
+$ git clone https://github.com/Kanata-chan/yao-yao
 $ cd milkita
 $ npm install -g npm@6.14.14 && npm install
 $ node .
@@ -112,7 +112,7 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/findme-19/milkita
+git clone https://github.com/Kanata-chan/yao-yao
 cd milkita
 npm install
 npm update
@@ -128,7 +128,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/findme-19/milkita
+git clone https://github.com/Kanata-chan/yao-yao
 cd milkita
 npm install
 npm update
@@ -316,7 +316,7 @@ m.react('🤑')
 [![XZNsenpai](https://github.com/xznsenpai.png?size=100)](https://github.com/xznsenpai)
 #### Contributor
 [![XZNsenpai](https://github.com/xznsenpai.png?size=100)](https://github.com/xznsenpai)
-[![ME](https://githubmcom/Kanata-chan.png?size=100)]
+[![ME](https://github.com/Kanata-chan.png?size=100)]
 (https://github.com/Kanata-chan)
 
 ---------
