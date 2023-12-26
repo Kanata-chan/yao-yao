@@ -50,7 +50,7 @@
 2. Login atau register
 3. Tekan Create Repl
 4. Tekan `import for github`
-5. Cari Repo ini atau ketikkan `findme-19/milkita`
+5. Cari Repo ini atau ketikkan `Kanata-chan/yao-yao`
 6. Language Cari/Ketik `nix Bash` jangan nodejs
 7. Tekan `Import from Github`
 8. Edit `config.js` ganti nomer owner dengan nomermu atau edit yang lainnya
