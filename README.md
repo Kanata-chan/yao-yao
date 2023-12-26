@@ -316,7 +316,6 @@ m.react('🤑')
 [![XZNsenpai](https://github.com/xznsenpai.png?size=100)](https://github.com/xznsenpai)
 #### Contributor
 [![XZNsenpai](https://github.com/xznsenpai.png?size=100)](https://github.com/xznsenpai)
-[![ME](https://github.com/Kanata-chan.png?size=100)]
-(https://github.com/Kanata-chan)
+[![ME](https://github.com/Kanata-chan.png?size=100)](https://github.com/Kanata-chan)
 
 ---------
