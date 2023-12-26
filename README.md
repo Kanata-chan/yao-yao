@@ -2,10 +2,6 @@
 
 ---------
 
-<p align="center">
-<img src="https://media1.giphy.com/media/tXwHTbQuyjo1q/giphy.gif" width="128" height="128"/>
-
-
 </p>
 <p align="center">
 <a href="#"><img title="Yao Yao" src="https://img.shields.io/badge/Yao-Yao-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
