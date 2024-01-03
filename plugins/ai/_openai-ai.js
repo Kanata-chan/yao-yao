@@ -7,7 +7,7 @@ var handler = async (m, {
  }) => {
 if (!text) throw `Masukkan pertanyaan!\n\n*Contoh:* Siapa presiden Indonesia? `
 await m.reply('...')
-  var js = await fetch(`https://api.betabotz.org/api/search/openai-chat?text=${text}&apikey=Yuzuru`)
+  var js = await fetch(`https://api.betabotz.org/api/search/openai-chat?text=${text}&apikey=Yourkey`)
 var json = await js.json()
 try {
   await conn.sendMessage(m.chat, {
