@@ -3,7 +3,7 @@ let handler = async (m, { text, command, conn }) => {
 
   if (!text) throw 'Masukan teks untuk diubah menjadi gambar'
 
-  let response = await fetch(`https://api.betabotz.org/api/search/openai-image?text=${encodeURIComponent(text)}&apikey=Yuzuru`)
+  let response = await fetch(`https://api.betabotz.org/api/search/openai-image?text=${encodeURIComponent(text)}&apikey=${lann}`)
   let image = await response.buffer()
   conn.sendFile(m.chat, image, 'aiimg.jpg',  wm, m)
 
